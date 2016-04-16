@@ -15,7 +15,8 @@ for line in sys.stdin:
 		if word is None:
 			word = next_word
 			count = value
-		print '%s, %d' % (word, count)
-		word = next_word
-		count = value
+		else:
+			print '%s, %d' % (word, count)
+			word = next_word
+			count = value
 print '%s, %d' % (word, count)
