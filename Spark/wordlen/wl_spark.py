@@ -14,4 +14,6 @@ txt.flatMap(lambda x: x.split())\
    .map(remove_punctuation)\
    .map(lambda x: (x.strip(), 1))\
    .reduceByKey(lambda x, y: x + y)\
-   .saveAsTextFile('wc-output')
+   .map(lambda kv: (len(kv[0]), 1))\
+   .reduceByKey(lambda x, y: x + y)\
+   .saveAsTextFile('wl-output')
