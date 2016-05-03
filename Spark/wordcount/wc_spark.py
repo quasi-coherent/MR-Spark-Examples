@@ -5,6 +5,7 @@ from pyspark import SparkContext
 sc = SparkContext()
 
 def remove_punctuation(word):
+	word = word.lower()
 	for p in string.punctuation:
 		word = word.replace(p, ' ')
 	return word
