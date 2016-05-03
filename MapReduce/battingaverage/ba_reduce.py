@@ -4,7 +4,6 @@ import sys
 team = None
 best_player = None
 max_avg = 0
-
 for line in sys.stdin:
 	next_team, value = line.split('\t')
 	player = value.split(',')[0]

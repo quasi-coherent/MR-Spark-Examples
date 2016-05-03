@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 import sys
 
-
 word = None
 count = 0
-
 for line in sys.stdin:
 	record = line.split('\t')
 	next_word = record[0]

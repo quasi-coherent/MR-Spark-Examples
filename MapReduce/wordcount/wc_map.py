@@ -2,7 +2,6 @@
 import sys
 import string
 
-
 for line in sys.stdin:
 	for p in string.punctuation:
 		line = line.replace(p, ' ')
