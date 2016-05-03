@@ -9,12 +9,11 @@ for line in sys.stdin:
 	value = int(record[1])
 	if next_word == word:
 		count += value
+	elif word is None:
+		word = next_word
+		count = value
 	else:
-		if word is None:
-			word = next_word
-			count = value
-		else:
-			print '%s, %d' % (word, count)
-			word = next_word
-			count = value
+		print '%s, %d' % (word, count)
+		word = next_word
+		count = value
 print '%s, %d' % (word, count)
