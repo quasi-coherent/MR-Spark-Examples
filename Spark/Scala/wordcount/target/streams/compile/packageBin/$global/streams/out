@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/wordcount/target/scala-2.11/wordcount_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/wordcount/target/scala-2.11/classes/wordcount/WordCount$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/wordcount/target/scala-2.11/classes/wordcount/WordCount$.class[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/wordcount/target/scala-2.11/classes/wordcount/WordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/wordcount/target/scala-2.11/classes/wordcount/WordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/wordcount/target/scala-2.11/classes/wordcount/WordCount.class[0m
+[0m[[0mdebug[0m] [0m	wordcount[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/wordcount/target/scala-2.11/classes/wordcount[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/wordcount/target/scala-2.11/classes/wordcount/WordCount$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/wordcount/target/scala-2.11/classes/wordcount/WordCount$$anonfun$2.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
