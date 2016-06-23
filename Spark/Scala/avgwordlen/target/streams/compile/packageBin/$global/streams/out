@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/avgwordlen/target/scala-2.11/avgwordlen_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	avgwordlen/AverageWordLength$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/avgwordlen/target/scala-2.11/classes/avgwordlen/AverageWordLength$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	avgwordlen/AverageWordLength$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/avgwordlen/target/scala-2.11/classes/avgwordlen/AverageWordLength$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	avgwordlen/AverageWordLength.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/avgwordlen/target/scala-2.11/classes/avgwordlen/AverageWordLength.class[0m
+[0m[[0mdebug[0m] [0m	avgwordlen[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/avgwordlen/target/scala-2.11/classes/avgwordlen[0m
+[0m[[0mdebug[0m] [0m	avgwordlen/AverageWordLength$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/avgwordlen/target/scala-2.11/classes/avgwordlen/AverageWordLength$.class[0m
+[0m[[0mdebug[0m] [0m	avgwordlen/AverageWordLength$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/dmdonohue/Github/MR-Spark-Examples/Spark/Scala/avgwordlen/target/scala-2.11/classes/avgwordlen/AverageWordLength$$anonfun$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
