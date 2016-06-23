@@ -1,4 +1,4 @@
 .DS_Store
 .idea/
-Spark/Scala/*/project
-Spark/Scala/*/target
+project
+target

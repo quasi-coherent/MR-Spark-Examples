@@ -1,5 +1,0 @@
-sbt package
-package
-:q
-quit
-exit
