@@ -17,5 +17,6 @@ object AverageWordLength {
         .reduce((x, y) => (x._1 + y._1, x._2 + y._2))
 
     println("Average word length: " + totals._1.toFloat / totals._2)
+    
   }
 }
